@@ -1,0 +1,53 @@
+body {
+  background: #acacac;
+}
+
+#title {
+  text-align: center;
+}
+
+#jqsrc {
+  background: #ffa600;
+  margin: 0 20px;
+  padding: 20px;
+  text-align: center;
+  font-size: 25px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.clear {
+  clear:both;
+  text-align: center;
+}
+/* start here */
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
+
+#game {
+  width: 200px;
+  float: left;
+}
+
+#startover {
+  width: 100px;
+  height: 25px;
+  text-align: center;
+  padding-top: 5px;
+  float: right;
+}
+
+.hoverOut {
+  color: #f00;
+  background: yellow;
+}
+
+.hoverIn {
+  background: #f00;
+  color: yellow;
+}
